@@ -1,4 +1,4 @@
-# cka-bootcamp learning path 
+# cka/ckad-bootcamp learning path 
 
 - [cncf-cka](https://www.cncf.io/certification/cka/)
 - [candidate-handbook](https://docs.linuxfoundation.org/tc-docs/certification/lf-candidate-handbook)
